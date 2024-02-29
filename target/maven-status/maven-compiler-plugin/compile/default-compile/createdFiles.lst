@@ -1,0 +1,15 @@
+com\kornevstas\diagnosticapp\DiagnosticApp.class
+com\kornevstas\diagnosticapp\LoadingScreen$1.class
+com\kornevstas\diagnosticapp\RamDiagnostic.class
+com\kornevstas\diagnosticapp\LoadingScreen$2$1.class
+com\kornevstas\diagnosticapp\LoadingScreen$2.class
+com\kornevstas\diagnosticapp\LoadingScreen.class
+com\kornevstas\diagnosticapp\CPUDiagnostic$2.class
+com\kornevstas\diagnosticapp\DiagnosticApp$1.class
+com\kornevstas\diagnosticapp\CPUDiagnostic.class
+com\kornevstas\diagnosticapp\GPUDiagnostic$1.class
+com\kornevstas\diagnosticapp\HardDriveDiagnostic.class
+com\kornevstas\diagnosticapp\RamDiagnostic$1.class
+com\kornevstas\diagnosticapp\CPUDiagnostic$1.class
+com\kornevstas\diagnosticapp\HardDriveDiagnostic$1.class
+com\kornevstas\diagnosticapp\GPUDiagnostic.class
